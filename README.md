@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/darwinanddavis/Kearney_etal_2018/master/img/header.jpg" alt=" " width=1000 height=400>    
+<img src="https://raw.githubusercontent.com/darwinanddavis/Kearney_etal_2018/master/img/header.jpg" alt=" " width=1000 height=300>    
 
 # Field tests of a general ectotherm niche model show how water can limit lizard activity and distribution    
 
@@ -34,7 +34,7 @@ Mechanistic forecasts of how species will respond to climate change are highly d
 
 ******    
 
-## Output  
+## Outputs  
 
 ![](img/fig1.jpg)   
 <br>   
